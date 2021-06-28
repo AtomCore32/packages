@@ -1,1 +1,1 @@
-https://atomcore32.github.io/packages/xCoreESP32/package_index.json
+https://atomcore32.github.io/packages/xCoreESP32/package_xCoreESP32_index.json
