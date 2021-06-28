@@ -14,7 +14,7 @@
           "architecture": "esp32",
           "version": "1.6.7",
           "category": "Contributed",
-          "url": "file:///xCore/xCoreESP32-1.6.7.tar.bz2",
+          "url": "https://github.com/AtomCore32/packages/blob/master/xCoreESP32/xCoreESP32-1.6.7.tar.bz2",
           "archiveFileName": "xCoreESP32-1.6.7.tar.bz2",
           "checksum": "SHA-256:49a676a9fdb01f56a5b0ed9e07338c594beba92bb23b53330979fce6241a57b4",
           "size": "46490370",
