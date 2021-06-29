@@ -9,6 +9,44 @@
         "online": ""
       },
       "platforms": [
+	   {
+          "name": "xCoreESP32",
+          "architecture": "esp32",
+          "version": "1.6.8",
+          "category": "Contributed",
+           "url": "https://atomcore32.github.io/packages/xCoreESP32/xCoreESP32-1.6.8.tar.bz2",
+          "archiveFileName": "xCoreESP32-1.6.8.tar.bz2",
+          "checksum": "SHA-256:b9818de95c528da98a119b4fb69e0f0f5549baf6aaafad8801241b303b4e8036",
+          "size": "46490631",
+          "boards": [
+            {
+              "name": "ESP32 Dev Module"
+            },
+            {
+              "name": "WEMOS LoLin32"
+            },
+            {
+              "name": "WEMOS D1 MINI ESP32"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "xCore",
+              "name": "xtensa-esp32-elf-gcc",
+              "version": "1.22.0-97-gc752ad5-5.2.0"
+            },
+            {
+              "packager": "xCore",
+              "name": "esptool_py",
+              "version": "3.0.0"
+            },
+            {
+              "packager": "xCore",
+              "name": "mkspiffs",
+              "version": "0.2.3"
+            }
+          ]
+        },
         {
           "name": "xCoreESP32",
           "architecture": "esp32",
