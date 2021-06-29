@@ -3,3 +3,5 @@ https://atomcore32.github.io/packages/xCoreESP32/package_xCoreESP32_index.json
 https://atomcore32.github.io/packages/xCoreESP32/MotorControl.zip
 https://atomcore32.github.io/packages/xCoreESP32/MotorControl-1.6.0.zip
 https://atomcore32.github.io/packages/xCoreESP32/MotorControl-1.6.8.zip
+
+https://atomcore32.github.io/packages/xCoreESP32/MotorControl-1.6.9.zip
