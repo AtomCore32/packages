@@ -1,18 +1,18 @@
 https://atomcore32.github.io/packages/xCoreESP32/package_xCoreESP32_index.json
 
-https://atomcore32.github.io/packages/xCoreESP32/MotorControl-1.7.4.zip
+https://atomcore32.github.io/packages/xCoreESP32/MotorControl-1.7.5.zip
 
 https://atomcore32.github.io/packages/xCoreESP32/myRobot_sketches-1.7.4.zip
 
+
 Current version:
+xCoreESP32-1.7.5
+MotorControl-1.7.5
+
+OLD worked version...
 xCoreESP32-1.7.4
 MotorControl-1.7.4
-
-OLD version ... do not use:
-https://atomcore32.github.io/packages/xCoreESP32/MotorControl.zip
-https://atomcore32.github.io/packages/xCoreESP32/MotorControl-1.6.0.zip
-https://atomcore32.github.io/packages/xCoreESP32/MotorControl-1.6.8.zip
-https://atomcore32.github.io/packages/xCoreESP32/MotorControl-1.6.9.zip
+myRobot_sketches-1.7.4.zip
 
 
 
